@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Restaurante
 
-![Imagem da UML](uml/uml.jpg)
+![Imagem da UML][(https://drive.google.com/file/d/1pweJxIu34jRkPB9aaK_BNb5JwSPQZfaK/view)]
 
 Projeto desenvolvido para a matéria de **_Programação Orientada a Objetos_**, implementando um sistema completo de gerenciamento para restaurantes.
 
